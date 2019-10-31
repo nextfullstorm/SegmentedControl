@@ -1,29 +1,15 @@
 # SegmentedControlView
 
+fork of awesome segmented control from https://github.com/danledian
+
 自定义View实现的分段选择控件
 
-![效果图](https://github.com/danledian/SegmentedControl/blob/master/gif/seg.gif)
+![效果图](https://github.com/nextfullstorm/SegmentedControl/blob/master/gif/seg.gif)
 
 [github地址](https://github.com/danledian/SegmentedControl)
 
 ## Download
-
-#### Gradle:
-~~~groovy
-dependencies {
-    compile 'com.dld.seg:SegControlView:1.0.0'
-}
-~~~
-
-#### Maven:
-~~~xml
-<dependency>
-  <groupId>com.dld.seg</groupId>
-  <artifactId>SegControlView</artifactId>
-  <version>1.0.0</version>
-  <type>pom</type>
-</dependency>
-~~~
+Clone, add as module to your project, or build aar and add dependency. I don't know how to add fork to Maven :(
 
 ## xml使用如下：
 
