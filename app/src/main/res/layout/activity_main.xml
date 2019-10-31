@@ -35,6 +35,10 @@
         app:segMarginTop="3dp"
         app:segMode="Circle"
         app:segSelectedItem="1"
+        app:segOuterColor="@android:color/holo_purple"
+        app:segItemColor="@android:color/white"
+        app:segSelectedTextColor="@android:color/black"
+        app:segDisabledOuterColor="#50aa66cc"
         android:id="@+id/scv2"/>
 
     <TextView
@@ -50,6 +54,11 @@
         app:segScrollEnable="false"
         app:segMarginLeft="3dp"
         app:segMarginTop="3dp"
+        app:segOuterColor="@android:color/holo_orange_dark"
+        app:segItemColor="@android:color/holo_orange_light"
+        app:segSelectedTextColor="@android:color/white"
+        app:segTextColor="@android:color/white"
+        android:entries="@array/sc3Array"
         android:id="@+id/scv3"/>
 
 </LinearLayout>

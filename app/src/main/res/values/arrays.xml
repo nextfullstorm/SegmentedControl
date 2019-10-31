@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sc3Array">
+        <item>"Red"</item>
+        <item>"Green"</item>
+        <item>"Blue"</item>
+        <item>"Alpha"</item>
+        <item>"Beta"</item>
+        <item>"Charlie"</item>
+    </array>
+
+</resources>

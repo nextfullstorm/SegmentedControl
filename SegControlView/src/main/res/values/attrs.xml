@@ -5,6 +5,7 @@
         <attr name="segOuterColor" format="color"/>
         <attr name="segItemColor" format="color"/>
         <attr name="segTextColor" format="color"/>
+        <attr name="segDisabledOuterColor" format="color"/>
         <attr name="segSelectedTextColor" format="color"/>
         <attr name="segMarginLeft" format="dimension|reference"/>
         <attr name="segMarginTop" format="dimension|reference"/>
@@ -15,5 +16,6 @@
             <enum name="Round" value="0"/>
             <enum name="Circle" value="1"/>
         </attr>
+        <attr name="android:entries" />
     </declare-styleable>
 </resources>
